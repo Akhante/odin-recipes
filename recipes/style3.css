@@ -15,3 +15,25 @@ img {
     width: 300px;
     border: 10px solid black;
 }
+
+.body {
+    font-family: sans-serif;
+
+}
+
+h2 {
+    font-size: 30px;
+}
+
+p {
+    font-size: large;
+}
+
+.process {
+    font-family: sans-serif;
+    font-size: 20px;
+}
+
+#process {
+    font-size: 30px;
+}
