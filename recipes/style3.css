@@ -1,0 +1,17 @@
+* {
+    background-color: antiquewhite;
+}
+
+.heading {
+    text-align: center;
+    align-items: center;
+    font-family: sans-serif;
+    font-weight: bolder;
+    font-size: larger;
+}
+
+img {
+    height: 300px;
+    width: 300px;
+    border: 10px solid black;
+}
